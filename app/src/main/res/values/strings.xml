@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardiacReader</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="a1">Cardiac Reader</string>
+    <string name="a2">Check your regular pulse and heart hate and stay safe</string>
+    <string name="confirmation">Value Recorded</string>
+</resources>
